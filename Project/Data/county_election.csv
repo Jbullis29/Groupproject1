@@ -1,0 +1,193 @@
+county,candidate,party,candidatevotes,totalvotes
+Adams,Hillary Clinton,democrat,96558,193665
+Adams,Donald Trump,republican,80082,193665
+Adams,Other,other,17025,193665
+Alamosa,Hillary Clinton,democrat,3189,6939
+Alamosa,Donald Trump,republican,3046,6939
+Alamosa,Other,other,704,6939
+Arapahoe,Hillary Clinton,democrat,159885,303046
+Arapahoe,Donald Trump,republican,117053,303046
+Arapahoe,Other,other,26108,303046
+Archuleta,Hillary Clinton,democrat,2500,7339
+Archuleta,Donald Trump,republican,4264,7339
+Archuleta,Other,other,575,7339
+Baca,Hillary Clinton,democrat,283,2153
+Baca,Donald Trump,republican,1753,2153
+Baca,Other,other,117,2153
+Bent,Hillary Clinton,democrat,590,1927
+Bent,Donald Trump,republican,1188,1927
+Bent,Other,other,149,1927
+Boulder,Hillary Clinton,democrat,132334,188142
+Boulder,Donald Trump,republican,41396,188142
+Boulder,Other,other,14412,188142
+Broomfield,Hillary Clinton,democrat,19731,37689
+Broomfield,Donald Trump,republican,14367,37689
+Broomfield,Other,other,3591,37689
+Chaffee,Hillary Clinton,democrat,4888,11250
+Chaffee,Donald Trump,republican,5391,11250
+Chaffee,Other,other,971,11250
+Cheyenne,Hillary Clinton,democrat,132,1102
+Cheyenne,Donald Trump,republican,925,1102
+Cheyenne,Other,other,45,1102
+Clear Creek,Hillary Clinton,democrat,2729,5866
+Clear Creek,Donald Trump,republican,2575,5866
+Clear Creek,Other,other,562,5866
+Conejos,Hillary Clinton,democrat,1771,4022
+Conejos,Donald Trump,republican,1914,4022
+Conejos,Other,other,337,4022
+Costilla,Hillary Clinton,democrat,1125,1848
+Costilla,Donald Trump,republican,588,1848
+Costilla,Other,other,135,1848
+Crowley,Hillary Clinton,democrat,339,1527
+Crowley,Donald Trump,republican,1079,1527
+Crowley,Other,other,109,1527
+Custer,Hillary Clinton,democrat,797,3066
+Custer,Donald Trump,republican,2061,3066
+Custer,Other,other,208,3066
+Delta,Hillary Clinton,democrat,4087,16790
+Delta,Donald Trump,republican,11655,16790
+Delta,Other,other,1048,16790
+Denver,Hillary Clinton,democrat,244551,331852
+Denver,Donald Trump,republican,62690,331852
+Denver,Other,other,24611,331852
+Dolores,Hillary Clinton,democrat,242,1255
+Dolores,Donald Trump,republican,944,1255
+Dolores,Other,other,69,1255
+Douglas,Hillary Clinton,democrat,68657,187499
+Douglas,Donald Trump,republican,102573,187499
+Douglas,Other,other,16269,187499
+Eagle,Hillary Clinton,democrat,14099,25223
+Eagle,Donald Trump,republican,8990,25223
+Eagle,Other,other,2134,25223
+Elbert,Hillary Clinton,democrat,3134,15978
+Elbert,Donald Trump,republican,11705,15978
+Elbert,Other,other,1139,15978
+El Paso,Hillary Clinton,democrat,108010,318967
+El Paso,Donald Trump,republican,179228,318967
+El Paso,Other,other,31729,318967
+Fremont,Hillary Clinton,democrat,5297,21973
+Fremont,Donald Trump,republican,15122,21973
+Fremont,Other,other,1554,21973
+Garfield,Hillary Clinton,democrat,11271,26470
+Garfield,Donald Trump,republican,13132,26470
+Garfield,Other,other,2067,26470
+Gilpin,Hillary Clinton,democrat,1634,3576
+Gilpin,Donald Trump,republican,1566,3576
+Gilpin,Other,other,376,3576
+Grand,Hillary Clinton,democrat,3358,8588
+Grand,Donald Trump,republican,4494,8588
+Grand,Other,other,736,8588
+Gunnison,Hillary Clinton,democrat,5128,9412
+Gunnison,Donald Trump,republican,3289,9412
+Gunnison,Other,other,995,9412
+Hinsdale,Hillary Clinton,democrat,197,589
+Hinsdale,Donald Trump,republican,339,589
+Hinsdale,Other,other,53,589
+Huerfano,Hillary Clinton,democrat,1633,3783
+Huerfano,Donald Trump,republican,1883,3783
+Huerfano,Other,other,267,3783
+Jackson,Hillary Clinton,democrat,171,861
+Jackson,Donald Trump,republican,629,861
+Jackson,Other,other,61,861
+Jefferson,Hillary Clinton,democrat,160776,328882
+Jefferson,Donald Trump,republican,138177,328882
+Jefferson,Other,other,29929,328882
+Kiowa,Hillary Clinton,democrat,91,855
+Kiowa,Donald Trump,republican,728,855
+Kiowa,Other,other,36,855
+Kit Carson,Hillary Clinton,democrat,536,3702
+Kit Carson,Donald Trump,republican,2967,3702
+Kit Carson,Other,other,199,3702
+Lake,Hillary Clinton,democrat,1616,3199
+Lake,Donald Trump,republican,1270,3199
+Lake,Other,other,313,3199
+La Plata,Hillary Clinton,democrat,15525,31150
+La Plata,Donald Trump,republican,12587,31150
+La Plata,Other,other,3038,31150
+Larimer,Hillary Clinton,democrat,93113,195980
+Larimer,Donald Trump,republican,83430,195980
+Larimer,Other,other,19437,195980
+Las Animas,Hillary Clinton,democrat,2650,6793
+Las Animas,Donald Trump,republican,3710,6793
+Las Animas,Other,other,433,6793
+Lincoln,Hillary Clinton,democrat,409,2436
+Lincoln,Donald Trump,republican,1892,2436
+Lincoln,Other,other,135,2436
+Logan,Hillary Clinton,democrat,1851,9722
+Logan,Donald Trump,republican,7282,9722
+Logan,Other,other,589,9722
+Mesa,Hillary Clinton,democrat,21729,77653
+Mesa,Donald Trump,republican,49779,77653
+Mesa,Other,other,6145,77653
+Mineral,Hillary Clinton,democrat,237,652
+Mineral,Donald Trump,republican,344,652
+Mineral,Other,other,71,652
+Moffat,Hillary Clinton,democrat,874,6525
+Moffat,Donald Trump,republican,5305,6525
+Moffat,Other,other,346,6525
+Montezuma,Hillary Clinton,democrat,3973,12858
+Montezuma,Donald Trump,republican,7853,12858
+Montezuma,Other,other,1032,12858
+Montrose,Hillary Clinton,democrat,5466,21186
+Montrose,Donald Trump,republican,14382,21186
+Montrose,Other,other,1338,21186
+Morgan,Hillary Clinton,democrat,3151,11960
+Morgan,Donald Trump,republican,8145,11960
+Morgan,Other,other,664,11960
+Otero,Hillary Clinton,democrat,2943,8452
+Otero,Donald Trump,republican,4928,8452
+Otero,Other,other,581,8452
+Ouray,Hillary Clinton,democrat,1697,3310
+Ouray,Donald Trump,republican,1351,3310
+Ouray,Other,other,262,3310
+Park,Hillary Clinton,democrat,3421,10417
+Park,Donald Trump,republican,6135,10417
+Park,Other,other,861,10417
+Phillips,Hillary Clinton,democrat,436,2332
+Phillips,Donald Trump,republican,1791,2332
+Phillips,Other,other,105,2332
+Pitkin,Hillary Clinton,democrat,7333,10523
+Pitkin,Donald Trump,republican,2550,10523
+Pitkin,Other,other,640,10523
+Prowers,Hillary Clinton,democrat,1186,5016
+Prowers,Donald Trump,republican,3531,5016
+Prowers,Other,other,299,5016
+Pueblo,Hillary Clinton,democrat,35875,78646
+Pueblo,Donald Trump,republican,36265,78646
+Pueblo,Other,other,6506,78646
+Rio Blanco,Hillary Clinton,democrat,436,3450
+Rio Blanco,Donald Trump,republican,2791,3450
+Rio Blanco,Other,other,223,3450
+Rio Grande,Hillary Clinton,democrat,2001,5534
+Rio Grande,Donald Trump,republican,3085,5534
+Rio Grande,Other,other,448,5534
+Routt,Hillary Clinton,democrat,7600,13986
+Routt,Donald Trump,republican,5230,13986
+Routt,Other,other,1156,13986
+Saguache,Hillary Clinton,democrat,1417,2835
+Saguache,Donald Trump,republican,1147,2835
+Saguache,Other,other,271,2835
+San Juan,Hillary Clinton,democrat,265,506
+San Juan,Donald Trump,republican,215,506
+San Juan,Other,other,26,506
+San Miguel,Hillary Clinton,democrat,2975,4329
+San Miguel,Donald Trump,republican,1033,4329
+San Miguel,Other,other,321,4329
+Sedgwick,Hillary Clinton,democrat,267,1364
+Sedgwick,Donald Trump,republican,1015,1364
+Sedgwick,Other,other,82,1364
+Summit,Hillary Clinton,democrat,9557,16174
+Summit,Donald Trump,republican,5100,16174
+Summit,Other,other,1517,16174
+Teller,Hillary Clinton,democrat,3603,14444
+Teller,Donald Trump,republican,9745,14444
+Teller,Other,other,1096,14444
+Washington,Hillary Clinton,democrat,296,2733
+Washington,Donald Trump,republican,2299,2733
+Washington,Other,other,138,2733
+Weld,Hillary Clinton,democrat,46519,135428
+Weld,Donald Trump,republican,76651,135428
+Weld,Other,other,12258,135428
+Yuma,Hillary Clinton,democrat,726,4791
+Yuma,Donald Trump,republican,3850,4791
+Yuma,Other,other,215,4791
